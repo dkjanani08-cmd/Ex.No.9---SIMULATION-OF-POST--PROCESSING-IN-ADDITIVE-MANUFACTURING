@@ -46,6 +46,9 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+<img width="1346" height="694" alt="Screenshot 2026-03-19 212556" src="https://github.com/user-attachments/assets/4b6fc281-c0f3-47ee-87b8-683991194413" />
+<img width="1516" height="721" alt="Screenshot 2026-03-19 212625" src="https://github.com/user-attachments/assets/f949b7b8-8c20-499c-8021-c5a6f26e487c" />
+
 
 ### Name:D.JANANI
 ### Register Number:25015838
